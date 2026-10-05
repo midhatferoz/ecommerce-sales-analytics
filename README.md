@@ -33,12 +33,6 @@ The dashboard provides the following major KPIs:
 - Average Delivery Time
 - Average Customer Rating
 
-[text](../../..)
-
-
-[text](../../..)
-
-
 
 ## Dashboard Features
 
@@ -53,6 +47,18 @@ Provides an overall view of e-commerce performance, including:
 - Customer segment distribution
 - Orders by device type
 - Delivery and rating summary
+
+
+## Dashboard Screenshots
+
+### Dashboard Overview
+
+![Dashboard Overview](screenshots/dashboard-overview.png)
+
+### Sales, Customer & Behavioral Insights
+
+![Dashboard Insights](screenshots/dashboard-insights.png)
+
 
 ### 2. Product & Category Analysis
 
